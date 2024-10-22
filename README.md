@@ -1,3 +1,3 @@
 # TFUG Projects
 
-This repository contains the projects presesnted at TFUG meetups.
+This repository contains the projects and code presesnted at various meetups and events.
